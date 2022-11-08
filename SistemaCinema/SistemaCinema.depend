@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1663692277 source:c:\users\guilherme\desktop\studing\biopark connect\algortimos_bpk\important\sistemacinema\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<windows.h>
+	"functions.h"
+
+1662751869 c:\users\guilherme\desktop\studing\biopark connect\algortimos_bpk\important\sistemacinema\functions.h
+
+1662752706 source:c:\users\guilherme\desktop\studing\biopark connect\algortimos_bpk\important\sistemacinema\cinema.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"functions.h"
+
